@@ -4,7 +4,7 @@ disqus_shortname: onmylemon
 reading_time:     true
 words_per_minute: 120
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://onmylemon.github.io/
+url:              
 
 # Owner/author information
 owner:
@@ -50,7 +50,7 @@ highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:year/:month/:title
+permalink:   :year/:month/:title
 
 # Amount of post to show on home page
 paginate: 5
