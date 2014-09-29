@@ -87,7 +87,7 @@ Breaking down the CSS rules we have here and going over them one by one reveals:
 * .icon_counter_red / blue / green - This sets the colour of the counter
 * .icon_counter
   * color - Sets the appropriate colour for the number
-  * font-family - On small sized text it is a good idea to manually set a size in case browser\u2019s default font ruins things
+  * font-family - On small sized text it is a good idea to manually set a size in case browser's default font ruins things
   * font-size - Again, manually setting the font size ensures this works regardless of browser
   * font-weight - Making our counter legible by increasing the weight
   * position - Setting absolute positioning allows us to place the counter correctly
