@@ -2,7 +2,7 @@
 layout: post
 title: Running away from WordPress
 description: "The move away from WordPress to a much better(?) system."
-tags: []
+tags: [wordpress, blogs, comparison]
 image:
   feature: featured/2014-09-28-The-move-to-another-platform.png
 comments: true
@@ -11,7 +11,9 @@ share: true
 
 > _That's all folks, goodbye [WordPress](https://wordpress.org/) and this time it's for good!_
 
-WordPrss has been a good platform for a few years, but with ongoing issues with updates and a number of other concerns I have about it's security, it is time to move on. I've chosen [Jekyll](http://jekyllrb.com/) as my next platform for a few reasons, I'll run through them now.
+WordPress has been a good platform for a few years, but with ongoing issues with updates and a number of other concerns I have about it's security, it is time to move on. I've chosen [Jekyll](http://jekyllrb.com/) as my next platform for a few reasons, I'll run through them now.
+
+<!-- more -->
 
 __Server Side Comparison__
 
@@ -23,7 +25,6 @@ __Server Side Comparison__
 {: width="100%" }
 
 WordPress has a lot of server side requirements including a relational database, PHP interpreter, and webserver. Jekyll on the other side of things only has the requirement of a webserver and a local computer to build on.
-<!-- more -->
 
 __As a Developer<sup>TM</sup>__
 
@@ -41,4 +42,4 @@ There are of course the vulnerabilities that exist in all web services but using
 
 __At the end of the day__
 
-Jekyll is my new blogging platform. WordPress, you have given me a nice couple of years but now I have to go to pastures new. Hopefully Jekyll will treat me nicely and I can have a few glorious years out of it.
+Jekyll is my new blogging platform. WordPress, you have given me a nice couple of years but now I have to go to pastures new. Hopefully Jekyll will treat me nicely and I can have a few glorious years out of it. It will take a little while to move posts from my old blog over, but not too long.
