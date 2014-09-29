@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Two Quick and Easy Javascript String Methods
-description: "The move away from WordPress to a much better(?) system."
 tags: [javascript, ninja code, snippets]
 image:
   feature: featured/2014-06-25-two-quick-and-easy-javascript-string-methods.png
